@@ -1,2 +1,2 @@
 # benford_fibonacci
-Benford analysis of Fibonacci sequence of length (n)
+This program runs a Benford analysis of a Fibonacci sequence of length (n)
